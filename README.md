@@ -10,3 +10,5 @@ This repository hosts my personal `tmux` config
 - Vertical Pane: prefix + `v`
 - Mouse Mode: on
 - Switch Panes: `alt` + arrow keys
+- Reload Config: prefix + `R`
+- Alt Reload: `tmux-runconf.sh` script
