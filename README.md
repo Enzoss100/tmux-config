@@ -12,3 +12,4 @@ This repository hosts my personal `tmux` config
 - Switch Panes: `alt` + arrow keys
 - Reload Config: prefix + `R`
 - Alt Reload: `tmux-runconf.sh` script
+- More Colors: Set the terminal to have 256-bit color support
