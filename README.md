@@ -13,3 +13,5 @@ This repository hosts my personal `tmux` config
 - Reload Config: prefix + `R`
 - Alt Reload: `tmux-runconf.sh` script
 - More Colors: Set the terminal to have 256-bit color support
+- Window Renumbering: Set base index to 1
+- Pane Renumbering: Set base index to 1
