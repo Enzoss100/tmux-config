@@ -6,8 +6,8 @@ This repository hosts my personal `tmux` config
 
 ## Config Contents:
 - Prefix Key: `ctrl+f`
-- Horizontal Pane: prefix + `h`
-- Vertical Pane: prefix + `v`
+- Horizontal Pane: prefix + `h` (goes to current directory)
+- Vertical Pane: prefix + `v` (goes to current directory)
 - Mouse Mode: on
 - Switch Panes: `alt` + arrow keys
 - Reload Config: prefix + `R`
