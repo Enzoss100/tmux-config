@@ -15,3 +15,4 @@ This repository hosts my personal `tmux` config
 - More Colors: Set the terminal to have 256-bit color support
 - Window Renumbering: Set base index to 1
 - Pane Renumbering: Set base index to 1
+- Tab changes color to Yellow when active
