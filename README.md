@@ -16,3 +16,4 @@ This repository hosts my personal `tmux` config
 - Window Renumbering: Set base index to 1
 - Pane Renumbering: Set base index to 1
 - Tab changes color to Cyan when active
+- Resize Pane Splits: `alt` + z
