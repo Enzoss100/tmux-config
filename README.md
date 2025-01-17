@@ -9,7 +9,7 @@ This repository hosts my personal `tmux` config
 - Horizontal Pane: prefix + `h` (goes to current directory)
 - Vertical Pane: prefix + `v` (goes to current directory)
 - Mouse Mode: on
-- Switch Panes: `alt` + arrow keys
+- Switch Panes: `alt` + "h", "j", "k", "l"
 - Reload Config: prefix + `R`
 - Alt Reload: `tmux-runconf.sh` script
 - More Colors: Set the terminal to have 256-bit color support
