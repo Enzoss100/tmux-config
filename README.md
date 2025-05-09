@@ -5,6 +5,8 @@ This repository hosts my personal `tmux` config
 **NOTE:** you must `chmod +x tmux-runconf.sh` for the reload script to work
 
 ## Config Contents:
+- Plugin Manager: tpm
+- Theme: Dracula
 - Prefix Key: `ctrl+f`
 - Horizontal Pane: prefix + `h` (goes to current directory)
 - Vertical Pane: prefix + `v` (goes to current directory)
@@ -17,3 +19,9 @@ This repository hosts my personal `tmux` config
 - Pane Renumbering: Set base index to 1
 - Tab changes color to Cyan when active
 - Resize Pane Splits: `alt` + z
+
+## Plugins
+- Dracula Theme
+- Dracula Powerline
+- tmux-prefix-highlight
+- tpm 
